@@ -5,3 +5,5 @@ Aspect-Based Sentiment Analysis
 - Aspect detection
 - Assigning polarity
 - TextBlob
+- Use the following link to see the code in TMP.ipynb
+https://nbviewer.jupyter.org/github/subbulakshmithill/Text-Mining-Project/blob/master/TMP.ipynb
